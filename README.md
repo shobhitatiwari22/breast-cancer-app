@@ -1,4 +1,4 @@
-🩺 Interactive Breast Cancer Diagnostic Assistant
+## 🩺 Interactive Breast Cancer Diagnostic Assistant
 
 An interactive machine learning dashboard that translates complex, multidimensional clinical tumor metrics into real-time diagnostic insights. 
 
