@@ -53,11 +53,12 @@ The model was validated using a strict, un-shuffled **80/20 train-test split**, 
 ## Application Screenshot
 
 <a href="https://breast-cancer-app-e7nsbt7xwg3swzu8fzugip.streamlit.app/" target="_blank">
-<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/7ac2c5b2-0133-4fff-8aff-8809445a21a9" />
+<img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/8982202c-0cce-4242-af0a-5e52f6f9e19a" />
 </a>
 
 ## Result
 
 <a href="https://breast-cancer-app-e7nsbt7xwg3swzu8fzugip.streamlit.app/" target="_blank">
-<img width="1600" height="779" alt="image" src="https://github.com/user-attachments/assets/96ba9498-bfed-45ca-afb6-2ebd9343f306" />
+<img width="1600" height="782" alt="image" src="https://github.com/user-attachments/assets/39d8ce33-952b-463c-a3d0-0e6b9636f651" />
+
 </a>
